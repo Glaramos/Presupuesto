@@ -1,3 +1,7 @@
+# Presupuesto de Gastos
+
+Esta App tiene la funcionalidad de registrar los gastos.
+
 ![Presupuesto_con_Angular](https://user-images.githubusercontent.com/91395402/221367643-5fa3328e-2a60-4c4b-a3c9-56821438d20b.jpg)
 
 # Presupuesto
